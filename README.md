@@ -1,5 +1,5 @@
 # Monday Coffee Analysis 
-![Alt Text]()
+![Alt Text](logo_redandwhite+(1).png)
 
 ## Introduction
 This project consists of a database schema and SQL queries designed to analyze sales data, customer behavior, and city-related insights for a Monday-coffee Analysis.
